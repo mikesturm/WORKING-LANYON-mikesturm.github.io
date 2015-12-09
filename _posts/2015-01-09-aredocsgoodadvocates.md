@@ -2,7 +2,7 @@
 layout: post
 title: Learning is Like Eating: Bite, Chew, Swallow
 categories: []
-tags: [learning]
+tags: [medicine]
 description: 
 comments: true
 ---
