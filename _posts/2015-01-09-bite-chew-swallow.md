@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bitechewswallow
+title: Learning is Like Eating&#58 Bite, Chew, Swallow
 categories: []
-tags: [medicine]
+tags: [learning]
 description: 
 comments: true
 ---
