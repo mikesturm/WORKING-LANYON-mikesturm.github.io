@@ -1,11 +1,11 @@
----
+---  
 layout: post
 title: Learning is Like Eating: Bite, Chew, Swallow
 categories: []
 tags: [learning, information, productivity]
 description: 
 comments: true
----
+---  
 
 Nearly every day, I find myself overwhelmed by the sheer volume of information to which I, as a humble non-tech-sector layperson, have access. The internet, for all the faults that it may bring out or reveal in us humans,  never ceases to  impresses me with its ability to provide large amounts of fertilizer for knowledge. 
 
