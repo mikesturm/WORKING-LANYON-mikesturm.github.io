@@ -1,5 +1,5 @@
 ---
-layout: postalt
+layout: post
 title: On Chasing and Being Chased
 categories: []
 tags: [productivity]
