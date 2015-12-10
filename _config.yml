@@ -12,7 +12,7 @@ description:      'I live, work, and write in the Midwest'
 url:              http://mikesturm.github.io
 baseurl:          '/'
 paginate:         5
-excerpt_separator: <!--more-->
+excerpt_separator: more
 
 author:
   name: 'Mike Sturm'
