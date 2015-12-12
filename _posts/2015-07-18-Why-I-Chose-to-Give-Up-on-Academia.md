@@ -5,12 +5,10 @@ subtitle: And Why it’s probably the best decision I’ll ever make.
 categories: []
 tags: [education, academia, philosophy]
 description: 
+image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/BretschneiderInTheScholarsStudyCa1700WroclawW.jpg
 comments: true
 ---
 
-![](https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/BretschneiderInTheScholarsStudyCa1700WroclawW.jpg)
-
----
 
 Anyone who has been through the process of applying to PhD programs can attest to the fact that so much of the process makes you question everything about yourself. You start questioning your intelligence, your credentials, your love for the subject you’re applying to study, your employability once you get your doctorate (_if_ you get your doctorate), and so on. The process is exhausting. Once you send off your last application, you leave your fate in the hands of the gods (here, that is the admission committees at the various departments at which you applied).
 
