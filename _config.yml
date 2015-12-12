@@ -8,19 +8,19 @@ permalink:        pretty
 # Setup
 title:            'Mike Sturm'
 tagline:          'I too have an opnion on that...'
-description:      'I live, work, and write in the Midwest'
+description:      'Striving to do better--whatever that may mean'
 url:              http://mikesturm.github.io
 baseurl:          '/'
 paginate:         5
 
 author:
   name: 'Mike Sturm'
-  email: 'mike.p.sturm[at]gmail[dot]com'
+  email: 'mike.p.sturm@gmail.com'
   twitter: aperfectsturm
   disqus_shortname: mike_sturm
   google_analytics_id: UA-71215621-1
   google_analytics_url: mikesturm.github.io
-  bio: Striving for better--whatever that may mean
+  bio: 
 
 # Custom vars
 version:          1.0.0
