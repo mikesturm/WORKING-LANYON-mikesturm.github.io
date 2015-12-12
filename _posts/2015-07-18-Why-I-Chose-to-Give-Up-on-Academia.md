@@ -5,7 +5,8 @@ subtitle: And Why it’s probably the best decision I’ll ever make.
 categories: []
 tags: [education, academia, philosophy]
 description: 
-img: <img class="caption__media" data-interchange="[https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/BretschneiderInTheScholarsStudyCa1700WroclawW.jpg, (medium)]">
+cover: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/BretschneiderInTheScholarsStudyCa1700WroclawW.jpg
+cover_width: 520px
 comments: true
 ---
 
