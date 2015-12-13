@@ -5,6 +5,7 @@ subtitle: Embrace the Block
 categories: []
 tags: [writing, creativity, productivity]
 description: 
+image: https://github.com/mikesturm/mikesturm.github.io/master/assets/Old_book_bindings.jpg
 comments: true
 ---
 
