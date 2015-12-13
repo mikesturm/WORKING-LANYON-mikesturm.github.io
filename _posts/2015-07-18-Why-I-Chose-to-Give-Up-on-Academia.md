@@ -5,7 +5,7 @@ subtitle: And Why it’s probably the best decision I’ll ever make.
 categories: []
 tags: [education, academia, philosophy]
 description: 
-img: BretschneiderInTheScholarsStudyCa1700WroclawW.jpg
+image: {{ site.baseurl }}/bullet.jpg
 comments: true
 ---
 
