@@ -5,7 +5,7 @@ subtitle:  Because the Internet Loves Lists and I’m Lazy
 categories: []
 tags: [advice]
 description: 
-Image: https://github.com/mikesturm/mikesturm.github.io/master/assets/Fortune_cookie.jpg
+img: Fortune_cookie.jpg
 comments: true
 ---
 
