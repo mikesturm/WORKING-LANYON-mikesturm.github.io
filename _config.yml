@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'Mike Sturm'
+title:            'The Fool Laureate'
 tagline:          'I too have an opnion on that...'
-description:      'Striving to do better--whatever that may mean'
+description:      'All opinions are my own, unless you recognize them from somewhere else.'
 url:              http://mikesturm.github.io
 baseurl:          '/'
 paginate:         5
