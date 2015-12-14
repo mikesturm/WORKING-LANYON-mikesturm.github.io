@@ -4,6 +4,7 @@ title: Outline Your Life, or Run the Risk of Failing to Live it.
 categories: []
 tags: [productivity, GTD, organization]
 description: 
+image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/clouds.jpg
 comments: true
 ---
 
