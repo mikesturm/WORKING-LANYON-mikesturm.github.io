@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-![courtesy of Smithlifescience.com][{{ site.baseurl }}assets/ImaginaryCreature.gif]
+![courtesy of Smithlifescience.com]({{ site.baseurl }}assets/ImaginaryCreature.gif)
 
   Welcome! Thank you for visiting the vitrual home of your fool Laureate. 
 
