@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            'The Fool Laureate'
 tagline:          'I too have an opnion on that...'
-description:      'All opinions are my own, unless you recognize them from somewhere else.'
+description:      'None of the words here are my own, but the arrangements are.'
 url:              http://mikesturm.github.io
 baseurl:          '/'
 paginate:         5
@@ -16,7 +16,7 @@ paginate:         5
 author:
   name: 'Mike Sturm'
   email: 'mike.p.sturm@gmail.com'
-  twitter: aperfectsturm
+  twitter: @aperfectsturm
   disqus_shortname: mike_sturm
   google_analytics_id: UA-71215621-1
   google_analytics_url: mikesturm.github.io
