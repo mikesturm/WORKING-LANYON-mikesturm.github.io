@@ -5,7 +5,7 @@ subtitle: Enter subtitle
 categories: []
 tags: []
 description: 
-image: {{ site.baseurl }}assets/leaf.jpg
+image: https://mikesturm.github.io/assets/leaf.jpg
 publish: true
 comments: true
 ---
