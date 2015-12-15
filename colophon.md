@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Colophon
 ---
 ![courtesy of Smithlifescience.com](https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/ImaginaryCreature.GIF)
 
