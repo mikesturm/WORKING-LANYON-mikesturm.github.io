@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Am I a Bad Person Because I Don’t Worship Steve Jobs?
 subtitle: Also, am I going to fail because I don’t have an idol?
 categories: 
