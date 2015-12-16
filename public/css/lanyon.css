@@ -47,8 +47,8 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Optima, Segoe, 'Segoe UI', Candara, Calibri, Arial, sans-serif;
-  font-weight: 400; 
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500; 
   font-variant: small-caps;
   color: #313131;
   letter-spacing: -.025rem;
