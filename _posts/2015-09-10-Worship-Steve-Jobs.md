@@ -1,10 +1,13 @@
 ---
-Layout: Post
-Title: Am I a Bad Person Because I Don’t Worship Steve Jobs?
-Subtitle: Also, am I going to fail because I don’t have an idol?
-Tags: [Steve Jobs, entrepreneurship, idols, millennials]
-Image: https://github.com/mikesturm/mikesturm.github.io/blob/master/assets/kowtow.png?raw=true
+layout: Post
+title: Am I a Bad Person Because I Don’t Worship Steve Jobs?
+subtitle: Also, am I going to fail because I don’t have an idol?
+categories: 
+tags: [Steve Jobs, entrepreneurship, idols, millennials]
+description: 
+image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/kowtow.png
 comments: true
+publish: true
 ---
 
 I was walking out of the lobby of my workplace today, when I spotted a copy of the latest Inc Magazine on the table between the two visitors’ waiting chairs. In big bold letters, the magazine yelled at me: “The Next Steve Jobs”. I paused, thought for a second about what exactly that meant to me, and left work to drive home.
