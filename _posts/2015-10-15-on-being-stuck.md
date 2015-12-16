@@ -1,11 +1,11 @@
 ---
 layout: post
 title: On Being Stuck, and What We Should do About It
-subtitle: Embrace the Block
+subtitle: 
 categories: []
 tags: [writing, creativity, productivity]
 description: 
-image: https://github.com/mikesturm/mikesturm.github.io/master/assets/Old_book_bindings.jpg
+image: https://github.com/mikesturm/mikesturm.github.io/master/assets/Quixote.jpg
 comments: true
 ---
 
