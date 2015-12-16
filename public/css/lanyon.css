@@ -41,7 +41,8 @@ body {
 }
 
 html {
-  <!--font-family: "PT Serif", Georgia, "Times New Roman", serif;-->
+/*
+  font-family: "PT Serif", Georgia, "Times New Roman", serif; */
   font-family: "Mercury SSm A", "Mercury SSm B";
 }
 
