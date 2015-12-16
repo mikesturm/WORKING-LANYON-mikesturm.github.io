@@ -7,7 +7,7 @@ tags: [Steve Jobs, entrepreneurship, idols, millennials]
 description: 
 image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/kowtow.png
 comments: true
-publish: true
+published: true
 ---
 
 I was walking out of the lobby of my workplace today, when I spotted a copy of the latest Inc Magazine on the table between the two visitors’ waiting chairs. In big bold letters, the magazine yelled at me: “The Next Steve Jobs”. I paused, thought for a second about what exactly that meant to me, and left work to drive home.
