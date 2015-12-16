@@ -4,6 +4,7 @@ Title: Am I a Bad Person Because I Don’t Worship Steve Jobs?
 Subtitle: Also, am I going to fail because I don’t have an idol?
 Tags: [Steve Jobs, entrepreneurship, idols, millennials]
 Image: https://github.com/mikesturm/mikesturm.github.io/blob/master/assets/kowtow.png?raw=true
+comments: true
 ---
 
 I was walking out of the lobby of my workplace today, when I spotted a copy of the latest Inc Magazine on the table between the two visitors’ waiting chairs. In big bold letters, the magazine yelled at me: “The Next Steve Jobs”. I paused, thought for a second about what exactly that meant to me, and left work to drive home.
@@ -23,11 +24,3 @@ I hope that I don’t have to tell my fellow millennials that we will have none 
 Steve Jobs did very well and built a strong company. Elon Musk is doing well, and is building multiple strong companies. But we do not need to build a makeshift cult around these men. They were men — men we can learn from — but men nonetheless. Speaking of learning, here’s the one thing we can very quickly learn from both of them; the business world still isn’t very friendly for women and people of color. So there’s that.
 
 So, Boomers, Xers, I don’t want your idols thrown in my face. I don’t buy into the concept; never have, never will. Furthermore, our generation was built upon the rejection of the concept of idols. You can keep writing what you’re writing, but please know, it will be taken with a grain of salt.
-
-</div></div></section></section><footer>
-
-Exported from [Medium](https://medium.com) on December 16, 2015.
-
-[View the original](https://medium.com/p/247c045e7b29)
-
-</footer></article>
