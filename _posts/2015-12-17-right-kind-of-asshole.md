@@ -5,7 +5,7 @@ subtitle: You're going to let someone down—choose wisely
 categories: []
 tags: [entrepreneurship, productivity, lifehacks]
 description: 
-image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/Disappointed_face.jpg
+image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/Disappointed_Face.jpg
 comments: true
 published: true
 ---
