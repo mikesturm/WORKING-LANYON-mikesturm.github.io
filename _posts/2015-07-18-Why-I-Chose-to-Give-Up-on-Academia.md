@@ -5,6 +5,7 @@ subtitle: And Why it’s probably the best decision I’ll ever make.
 categories: []
 tags: [education, academia, philosophy]
 description: 
+excerpt_separator: <!--more-->
 image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/academic.jpg
 comments: true
 ---
@@ -17,6 +18,8 @@ In late December of last year, I submitted applications to philosophy programs u
    [1]: http://www.philosophicalgourmet.com/overall.asp
 
 I turned them all down.
+
+<!--more-->
 
 You see, I began the application process very (probably overly) optimistic about the job market in academia. I believed in myself, my abilities, and I took to heart the encouragements of my mentors in academia, using them to propel through my increasingly quixotic venture.
 
