@@ -1,13 +1,17 @@
 ---
 layout: post
-title: 
-subtitle: 
+title:
+subtitle:
 categories: []
 tags: []
-description: 
+description:
 image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/
 comments: true
 published: false
 ---
 
 Here is a test post.
+
+<!--more-->
+
+Here is stuff below the "read more" denotator.

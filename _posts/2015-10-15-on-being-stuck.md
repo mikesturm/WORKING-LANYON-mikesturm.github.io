@@ -1,10 +1,10 @@
 ---
 layout: post
 title: On Being Stuck, and What We Should do About It
-subtitle: 
+subtitle:
 categories: []
 tags: [writing, creativity, productivity]
-description: 
+description:
 image: https://github.com/mikesturm/mikesturm.github.io/master/assets/Quixote.jpg
 comments: true
 ---
@@ -12,10 +12,11 @@ comments: true
 
 
 Creative types and knowledge workers will no doubt have experience with the term “stuck”. They will also likely shudder at its mere mention, or at seeing it in print. Negative connotations abound for this term, and it’s no wonder; it often represents the onset of severe stress and torment. When you’re stuck, you get frustrated, angry — things don’t get done; it is just plain bad.
+<!--more-->
 
 ### The Existential Crisis
 
-To me, there is something very existentially important about being “stuck”, even in the narrow sense of writer’s block. In fact, writer’s block is probably _the_ paradigmatic exemplification of being existentially stuck. I mean, here you were, chugging along, typing away, pouring your heart on to the page, and then…screech! You’ve just suddenly stopped. Now you’re not moving, and it’s anxiety-inducing. It is as if one’s existence has a certain momentum and direction. When one is stuck, and doesn’t know _what _to write, or _how _to communicate something, it’s an example of either of the following:
+To me, there is something very existentially important about being “stuck”, even in the narrow sense of writer’s block. In fact, writer’s block is probably _the_ paradigmatic exemplification of being existentially stuck. I mean, here you were, chugging along, typing away, pouring your heart on to the page, and then…screech! You’ve just suddenly stopped. Now you’re not moving, and it’s anxiety-inducing. It is as if one’s existence has a certain momentum and direction. When one is stuck, and doesn’t know *what* to write, or *how* to communicate something, it’s an example of either of the following:
 
 (a) not being in control of your momentum or direction — like a galloping horse over which you have no control, or
 
@@ -41,4 +42,3 @@ However, on a long view it doesn’t matter how fast you arrive somewhere if it�
    [1]: http://wiki.43folders.com/index.php/Happiness
 
 But, if we are really as thoughtful and creative as we pretend to be, we should not ignore our horse as it trots in place upon our becoming “stuck”. What we _should_ be doing is asking what stopped us, and upon finding the answer, learn how to better tackle that opposing force as we begin to ride again.
-

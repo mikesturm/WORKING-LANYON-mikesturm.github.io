@@ -3,7 +3,7 @@ layout: post
 title: Outline Your Life, or Run the Risk of Failing to Live it.
 categories: []
 tags: [productivity, GTD, organization]
-description: 
+description:
 image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/clouds.jpg
 comments: true
 ---
@@ -14,6 +14,7 @@ Can you quickly, and without hemming and hawing, answer the following 2 part que
 >*What are you doing right now, and how is that contributing to the overarching goals for your life?*
 
 If your answer is something like “I’m scrolling through Facebook right now , and, well, I’m not sure about the second part of the question”, then perhaps my message can be of benefit to you . You see, one of the most insidious sources of anxiety for so many of us is being at odds with who we want to be. But worry not, because we mostly already have an idea of who we’d like to be, we just haven’t made it explicit and front-of-mind. Making that idea explicit, and acting on its behalf, is a contributing factor in building and maintaining a life that you _enjoy_ living, and that you can be proud to live.
+<!--more-->
 
 About 2 years ago, I read David Allen’s [*Getting Things Done*][3], and it changed the way that I looked at almost everything I do. I’m not going to say that it miraculously changed my life, I realize that really only I can do that, and given the work it takes, it will hardly seem miraculous to me. But GTD (as the insiders call it) allowed me the head-space to step back and take a look at two important things: *how* I get things done that I want to do and *why* I choose to do the things that I do. David presents a useful heuristic to help one think through their respective duties and tasks — it uses altitudes.
 
