@@ -13,6 +13,8 @@ I was walking out of the lobby of my workplace today, when I spotted a copy of t
 
 I paused because this was not the first time I’ve seen a nod to the cult of Steve Jobs emblazoned on some print media, or at the top of a blog post (or a Medium post for that matter). Similar cult status seems to drape around the neck of Elon Musk as well. Both gentlemen’s names are the subject matter of numerous articles, headlines, and stories — all seeming to lead us to believe that these men are the pinnacle of achievement. This makes me uncomfortable.
 
+<!--more-->
+
 Perhaps it is the residual of my long steeping time in the hot waters of radical politics, and my liberal arts pedigree. Maybe it’s my tendency to be generally skeptical of high praise (even of myself). Whatever the reason, I just get irked at how often names like Jobs and Musk are thrown at me and my generation in a certain way. I just really get irked by it.
 
 Here’s what I think it is: it’s idolatry, and I am angry because I thought that we millennials had killed idolatry. Every other generation had its idols: Carnegie, Patton, John Paul II, Kurt Cobain. As I grew up, I thought our generation was different. I thought that the one good thing we took from the mess that is postmodernist thought was that idols are for suckers. Kill your darlings! and such. But alas, here I stand, having just turned the corner of my thirties, and here I’m being served up the exact idolatry that I thought I had helped to out-and-out refused.

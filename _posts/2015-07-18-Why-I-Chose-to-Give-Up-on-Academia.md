@@ -4,12 +4,11 @@ title: Why I Chose to Give Up on Academia
 subtitle: And Why it’s probably the best decision I’ll ever make.
 categories: []
 tags: [education, academia, philosophy]
-description: 
+description:
 excerpt_separator: <!--more-->
 image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/academic.jpg
 comments: true
 ---
-
 
 Anyone who has been through the process of applying to PhD programs can attest to the fact that so much of the process makes you question everything about yourself. You start questioning your intelligence, your credentials, your love for the subject you’re applying to study, your employability once you get your doctorate (_if_ you get your doctorate), and so on. The process is exhausting. Once you send off your last application, you leave your fate in the hands of the gods (here, that is the admission committees at the various departments at which you applied).
 
@@ -67,4 +66,3 @@ I have probably come across as a bit jaded, and perhaps I am, but please don’t
 I won’t be getting a PhD in philosophy, but I will never stop learning, and I will never stop doing the things that motivated me to aim for that degree. Those who think that the academy is their only refuge from a dizzying capitalistic jungle, take heart — the business world is not as bad as you think. There are places where your enthusiasm for learning, thinking, and teaching can be of service. They won’t be easy to find, but when you find them, you might just find yourself way more appreciated than you would be in a job market where good positions keep getting whittled down to nothing.
 
 Often times our ideals go unrealized as we move through life. There is no shame in continuing to strive for them, but there is shame in dismissing other avenues when you've done little to explore them. The academy may be shrinking from what it once was, but perhaps there is still a place for us thinkers, if we work to make it.
-
