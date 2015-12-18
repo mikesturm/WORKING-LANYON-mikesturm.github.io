@@ -4,7 +4,7 @@ title: Am I a Bad Person Because I Don’t Worship Steve Jobs?
 subtitle: Also, am I going to fail because I don’t have an idol?
 categories: []
 tags: [Steve Jobs, entrepreneurship, idols, millennials]
-description: 
+description: []
 image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/kowtow.png
 comments: true
 published: true
