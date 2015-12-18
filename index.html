@@ -20,6 +20,7 @@ title: Home
       {{ post.content }}
       {% else %}
       {% if post.content | post_contains_excerpt_tag %}
+      {{ post.excerpt }}
   <a href="{{ post.url }}">Read more →</a>
       {% endif %}
 
