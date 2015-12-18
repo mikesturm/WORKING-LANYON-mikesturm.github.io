@@ -24,12 +24,11 @@ title: Home
       {% elsif post.description %}
       {{ post.description }}
       {% else %}
-      {{ post.excerpt }}
-      {% endif %}
-      {% endif %}
       {% if post.content | post_contains_excerpt_tag %}
   <a href="{{ post.url }}">Read more →</a>
-{% endif %}
+      {% endif %}
+      {% endif %}
+    
     </div>
 
   </div>
@@ -52,4 +51,3 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
