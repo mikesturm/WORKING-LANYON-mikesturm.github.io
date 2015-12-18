@@ -12,6 +12,7 @@ description:      'Navigating through reality like a punctured dirigible.'
 url:              http://mikesturm.github.io
 baseurl:          '/'
 paginate:         5
+excerpt_separator: "<!--more-->"
 
 author:
   name: 'Mike Sturm'
@@ -20,7 +21,7 @@ author:
   disqus_shortname: mike_sturm
   google_analytics_id: UA-71215621-1
   google_analytics_url: mikesturm.github.io
-  bio: 
+  bio:
 
 # Custom vars
 version:          1.0.0
