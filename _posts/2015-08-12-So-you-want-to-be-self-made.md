@@ -7,7 +7,7 @@ tags: [entrepreneurship, business, help]
 description: 
 image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/moneybags.jpg
 comments: true
-published: false
+published: true
 ---
 
 
