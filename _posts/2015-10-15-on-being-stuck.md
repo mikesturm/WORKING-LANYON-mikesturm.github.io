@@ -5,7 +5,7 @@ subtitle:
 categories: []
 tags: [writing, creativity, productivity]
 description:
-image: https://github.com/mikesturm/mikesturm.github.io/master/assets/Quixote.jpg
+image: https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/Quixote.jpg
 comments: true
 ---
 
