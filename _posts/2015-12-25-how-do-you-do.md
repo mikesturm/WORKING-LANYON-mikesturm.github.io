@@ -3,14 +3,14 @@ layout: post
 title: How Do *You* Do?
 subtitle: Whether or not you get things done depends on *how* you view the doing *and* the things.
 categories: []
-tags: [productivity]
+tags: [productivity, gtd]
 description: 
 comments: true
 ---
 
 About 3 years ago to the day, I finally sat down and read David Allen's seminal work on producitivty [*Getting Things Done*](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280). It would not in fact be hyperbole to say that it changed my outlook entirely. But the change took a while to really sink in. You see, I had been searching for a system for a while. I was always busy, but never completing the things that I wanted to complete. I was never short on abmitions, but I was always short on plans to realize any of them. Enter GTD.
 
-<!—more—>
+<!---more--->
 
 Throughout the year after reading the book, I became obsessed—as I am wont to do—with productivity porn. I tried numerous task managers, reference file programs, folders, pens, notebooks, and so on. I put up the famous [GTD flowchart](http://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf) on my cubicle wall at work, assuming that the magic contained therein whould sprinkle upon me as I dilligently continued my totally reactive work routine. That, of course, did not happen.
 
