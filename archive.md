@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-weight: 1
+weight: 10
 ---
 
 {% for post in site.posts %}
