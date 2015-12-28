@@ -1,4 +1,16 @@
-Image Credit: USA Network/Anonymous Content
+---
+layout: post
+title: Our Dangerous Obsession With Lifehacking
+subtitle: 
+categories:[]
+tags[lifehacking, productivity]
+description:
+image: https://raw.githbusercontent.com/mikesturm/mikesturm.github.io/master/assets/Fsocietyman.png
+comments: true
+published: true
+---
+
+#####Image Credit: USA Network/Anonymous Content
 
 It’s rare that a word with a very negative connotation gets a second chance, but the term “hack” is a prime example of that rare occurrence. The word “hack” used to describe a person — ostensibly some sort of professional — who was terrible at what they did. In fact, a very telling definition, courtesy of Random House, reads as follows:
 
