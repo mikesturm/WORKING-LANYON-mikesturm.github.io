@@ -38,12 +38,14 @@
 html,
 body {
   overflow-x: hidden;
+  font-size: 100%;
 }
 
 html {
 /* line below is original, changed by me to Mercury SSm
   font-family: "PT Serif", Georgia, "Times New Roman", serif; */
   font-family: "Mercury SSm A", "Mercury SSm B";
+  font-size: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
