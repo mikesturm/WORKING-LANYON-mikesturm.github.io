@@ -101,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  background: url("assets/YFL-masthead.png") no-repeat top center;
+  background: url("https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/YFL-masthead.png") no-repeat top center;
   margin-bottom: 3rem;
   /*border-bottom: 1px solid #eee;*/
 }
