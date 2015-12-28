@@ -10,13 +10,13 @@ comments: true
 published: true
 ---
 
-### C'mon, Don’t Be so Naive
-
 Succeeding at something great is difficult, and often complicated. If it weren’t, there would be a lot more people doing it. In fact, _you_ would probably be doing it, rather than surfing for articles that _guarantee_ that if you read them, you’ll succeed.
 
 Just think of it this way: if success is really the result of one simple trick, that must mean that everyone else is either too stupid to read articles like the those, or too lazy to follow the “simple trick”. That seems a bit far-fetched, doesn’t it?
 
-So here’s the simple trick you’ve been looking for to guarantee success: understand there is no one simple trick. There is no hack, there is no thing that Steve Jobs, Elon Musk, Jeff Bezos, and {insert name of eccentric entrepreneurial idol here} all did to gain success and fame. Once you begin to understand and accept that, perhaps you can get moving.
+So here’s the simple trick you’ve been looking for to guarantee success: 
+<!--more-->
+understand there is no one simple trick. There is no hack, there is no thing that Steve Jobs, Elon Musk, Jeff Bezos, and {insert name of eccentric entrepreneurial idol here} all did to gain success and fame. Once you begin to understand and accept that, perhaps you can get moving.
 
 ### But, But, I read somewhere that….
 
