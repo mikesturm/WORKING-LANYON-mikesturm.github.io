@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Colophon
-weight: 2
+permalink: "colophon.html"
 ---
 ![courtesy of Smithlifescience.com](https://raw.githubusercontent.com/mikesturm/mikesturm.github.io/master/assets/ImaginaryCreature.GIF)
 
