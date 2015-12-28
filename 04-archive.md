@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archives
-weight: 4
+permalink: "archive.html"
 ---
 
 {% for post in site.posts %}
