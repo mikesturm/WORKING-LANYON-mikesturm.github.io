@@ -46,6 +46,14 @@
         </span>
       </a>
     {% endif %}
+{% if site.author.medium %}
+      <a href="https://medium.com/@{{ site.author.goodreads }}">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-medium fa-stack-1x"></i>
+        </span>
+      </a>
+    {% endif %}
     {% if site.author.orcid %}
       <a href="{{ site.author.orcid }}">
         <span class="fa-stack fa-lg">
