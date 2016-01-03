@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How Do *You* Do?
-subtitle: Whether or not you get things done depends on *how* you view the doing *and* the things.
+title: How We Do
+subtitle: 
 categories: []
 tags: [productivity, gtd]
-description: 
+description: Whether or not you get things done depends on how you view both the doing and the things.
 comments: true
 ---
 
