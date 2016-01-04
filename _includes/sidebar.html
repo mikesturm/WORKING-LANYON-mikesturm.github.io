@@ -8,7 +8,10 @@
   <!--  <div class="sidebar-logo">
     <img src="{{ site.baseurl }}assets/Stanczyk.jpg" />
   </div> -->
-
+<br>
+<div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
 <div id="contact-list" style="text-align:center">
 
     {% if site.author.twitter %}
@@ -42,7 +45,7 @@
       </a>
     {% endif %}
 {% if site.author.medium %}
-      <a href="https://medium.com/@{{ site.author.goodreads }}">
+      <a href="https://medium.com/@{{ site.author.medium }}">
         <span class="fa-stack fa-lg">
           <!--< * Add the following to put the icon in a box:
           i class="fa fa-square-o fa-stack-2x"></i> -->
@@ -71,9 +74,7 @@
     </a>
 </div>
 
-  <div class="sidebar-item">
-    <p>{{ site.description }}</p>
-  </div>
+  
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
