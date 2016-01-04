@@ -1,5 +1,3 @@
-2016-01-01-Oblique-resolution
-
 ---
 layout: post
 title: My Resolution for 2106 - Be Oblique
