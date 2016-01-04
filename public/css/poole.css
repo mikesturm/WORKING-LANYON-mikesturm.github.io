@@ -50,7 +50,7 @@ body {
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 12px;
-  line-height: 1.0;
+  line-height: 1.15;
 }
 @media (min-width: 38em) {
   html {
