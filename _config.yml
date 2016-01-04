@@ -11,7 +11,7 @@ tagline:          'I too have an opnion on that...'
 description:      'Navigating through reality like a punctured dirigible.'
 url:              http://mikesturm.github.io
 baseurl:          '/'
-paginate:         5
+paginate:         10
 excerpt_separator: "<!--more-->"
 
 author:
