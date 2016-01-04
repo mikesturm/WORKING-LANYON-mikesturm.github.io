@@ -230,8 +230,8 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
- /*margin: 0 0 1rem;
-  border-radius: 1px; */
+ margin: 0 0 1rem;
+  border-radius: 1px; 
 }
 
 /* Tables */
@@ -301,8 +301,8 @@ tbody tr:nth-child(odd) th {
  */
 
 .masthead {
-  padding-top:    0rem;
-  padding-bottom: 0rem;
+  padding-top:    -1rem;
+  padding-bottom: -1rem;
   margin-bottom: 3rem;
 }
 .masthead-title {
