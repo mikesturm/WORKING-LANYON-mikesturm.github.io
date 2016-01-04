@@ -104,8 +104,8 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid #eee;
 }
 .masthead-title {
-  padding-top:    -1rem;
-  padding-bottom: -1rem;
+  padding-top: 1px;
+  padding-bottom: 2px;
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 2rem;
@@ -114,8 +114,8 @@ h1, h2, h3, h4, h5, h6 {
 .masthead-title a {
   color: #505050;
   padding-left: 2rem;
-  padding-top:    -1rem;
-  padding-bottom: -1rem;
+  padding-top:    1px;
+  padding-bottom: 1px;
 }
 .masthead-title small {
   font-size: 75%;
